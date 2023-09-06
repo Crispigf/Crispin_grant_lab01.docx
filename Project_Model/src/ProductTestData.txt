@@ -1,0 +1,2 @@
+000001, grape, purple fruit, 0.2
+000343, bread, made out of wheat, 10.1
